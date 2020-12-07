@@ -14,6 +14,13 @@
     <link href="<?php bloginfo('template_url'); ?>/css/bootstrap.css" rel="stylesheet">
     <!-- Custom styles for this template -->
     <link href="<?php bloginfo('stylesheet_url'); ?>" rel="stylesheet">
+    <style>
+      .post-thumb img{
+        width:100%;
+        height: auto;
+        margin-bottom: 8px;
+        }
+    </style>
     <?php wp_head(); ?>
   </head> 
   <body>
