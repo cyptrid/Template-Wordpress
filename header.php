@@ -70,6 +70,16 @@
   margin-bottom:15px;
 }
 
+.post-gallery{
+  background: #333;
+  color : #fff;
+  padding:10px;
+  text-align: center;
+}
+
+.post-gallery h2{
+  color:white;
+}
     </style>
     <?php wp_head(); ?>
   </head> 
